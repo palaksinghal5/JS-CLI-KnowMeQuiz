@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Instructions to play the quiz!..***
 
-✔ Click [here]("https://replit.com/@palaksinghal/mark-1#index.jsembed=1&output=1") to play the game<br>
+✔ Click [here](https://replit.com/@palaksinghal/mark-1#index.jsembed=1&output=1) to play the game<br>
 ✔ Write your answer and press `enter`<br>
 ✔ For every correct answer you get one point.<br>
 ✔ There is no negative marking<br>
